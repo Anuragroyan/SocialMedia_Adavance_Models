@@ -17,36 +17,13 @@ This repository is intended to keep the Social Media Detector’s machine learni
 It can be used as a reference when preparing models for ONNX Runtime, Android integration, testing, or future model conversion.
 
 🔄 Model Workflow
-Training / Model Development
-          ↓
-    Model Checkpoint
-          ↓
-   Model Processing
-          ↓
-   Model Conversion
-          ↓
-     ONNX Model
-          ↓
-   Android Integration
-          ↓
-Social Media Detection
+<img width="1222" height="1287" alt="image" src="https://github.com/user-attachments/assets/ee49d4c5-9c73-4e3e-a972-9171f58fa68d" />
+
 
 🧩 Model Integration
 The trained model can be prepared and converted into a deployment-friendly format such as ONNX, which can then be integrated into the Android application for local machine-learning inference.
+<img width="1536" height="1024" alt="image1" src="https://github.com/user-attachments/assets/0642d557-7d00-4edc-a5f9-ed97bb281833" />
 
-Python / PyTorch
-       ↓
-Model Weights
-       ↓
-Model Conversion
-       ↓
-    .onnx
-       ↓
-ONNX Runtime
-       ↓
-Android App
-       ↓
-Text Classification
 
 ⚠️ Note
 This repository is primarily intended as a model backup and development resource. Individual files may serve different purposes depending on the model version, training stage, or conversion workflow.
