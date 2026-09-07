@@ -27,8 +27,9 @@ It can be used as a reference when preparing models for ONNX Runtime, Android in
 🧩 Model Integration
 
 The trained model can be prepared and converted into a deployment-friendly format such as ONNX, which can then be integrated into the Android application for local machine-learning inference.
-<img width="1536" height="1024" alt="image1" src="https://github.com/user-attachments/assets/0642d557-7d00-4edc-a5f9-ed97bb281833" />
 
+
+<img width="1536" height="1024" alt="image1" src="https://github.com/user-attachments/assets/0642d557-7d00-4edc-a5f9-ed97bb281833" />
 
 ⚠️ Note
 This repository is primarily intended as a model backup and development resource. Individual files may serve different purposes depending on the model version, training stage, or conversion workflow.
